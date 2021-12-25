@@ -9,8 +9,16 @@
 ## Lignes de commande à connaître
 ### 1. 
 #### a) Mises à jour
-* 
-#### b) Supprimer un logiciel et des dépendances
+* dnf check-update
+* dnf upgrade
+* dnf system-upgrade
+
+#### b) Installer et desinstaller des logiciels
+* dnf install
+* dnf remove
+
+
+#### c) Supprimer un logiciel et des dépendances
 *
 
 ### 2. Flatpak
