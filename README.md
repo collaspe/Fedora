@@ -16,6 +16,8 @@ Lien : https://rpmfusion.org/Howto/NVIDIA?highlight=%28%5CbCategoryHowto%5Cb%29
 * lsmod | grep nouveau
 * Rebooter le PC
 
+#### c) Installer logiciel pour configurer la souris
+* sudo dnf install piper
 
 ## Lignes de commande à connaître
 ### 1. 
