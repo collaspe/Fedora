@@ -20,7 +20,7 @@ Lien : https://rpmfusion.org/Howto/NVIDIA?highlight=%28%5CbCategoryHowto%5Cb%29
 * sudo dnf install piper
 
 ## Lignes de commande à connaître
-### 1. 
+### 1. Fedora
 #### a) Mises à jour
 * dnf check-update
 * dnf upgrade
