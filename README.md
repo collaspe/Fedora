@@ -2,8 +2,16 @@
 ## Configuration de Fedora sur mon PC Lenovo Ideadpad 330-15ARR
 
 ### 1. À faire dès la distribution installée
-#### a)
-##### 
+#### a) Installer un dépot communautaire : RPM Fusion
+Lien : https://rpmfusion.org/Configuration
+* sudo dnf install https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://mirrors.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
+
+#### b) Installer les pilotes NVIDIA (RTX 2070)
+Lien : https://rpmfusion.org/Howto
+Lien : https://rpmfusion.org/Howto/NVIDIA?highlight=%28%5CbCategoryHowto%5Cb%29
+* sudo dnf update -y # and reboot if you are not on the latest kernel
+* sudo dnf install akmod-nvidia # rhel/centos users can use kmod-nvidia instead
+* sudo dnf install xorg-x11-drv-nvidia-cuda #optional for cuda/nvdec/nvenc support
 
 
 ## Lignes de commande à connaître
