@@ -46,3 +46,5 @@ Lien : https://rpmfusion.org/Howto/NVIDIA?highlight=%28%5CbCategoryHowto%5Cb%29
 
 ## GNOME
 ### 1. Extensions Gnome
+* Dash To Dock
+* Compiz alike magic lamp effect
