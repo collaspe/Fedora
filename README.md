@@ -1,5 +1,5 @@
 # Fedora
-## Configuration de Fedora sur mon PC Lenovo Ideadpad 330-15ARR
+## Configuration de Fedora sur mon PC Lenovo Ideadpad 330-15ARR et sur mon PC de bureau
 
 ### 1. À faire dès la distribution installée
 #### a) Installer un dépot communautaire : RPM Fusion
