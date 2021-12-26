@@ -13,6 +13,8 @@ Lien : https://rpmfusion.org/Howto/NVIDIA?highlight=%28%5CbCategoryHowto%5Cb%29
 * sudo dnf install akmod-nvidia # rhel/centos users can use kmod-nvidia instead
 * sudo dnf install xorg-x11-drv-nvidia-cuda #optional for cuda/nvdec/nvenc support
 * modinfo -F version nvidia
+* lsmod | grep nouveau
+* Rebooter le PC
 
 
 ## Lignes de commande à connaître
