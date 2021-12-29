@@ -50,3 +50,4 @@ Lien : https://rpmfusion.org/Howto/NVIDIA?highlight=%28%5CbCategoryHowto%5Cb%29
 ### 1. Extensions Gnome
 * Dash To Dock
 * Compiz alike magic lamp effect
+* Sound input & Output device chooser
