@@ -19,6 +19,10 @@ Lien : https://rpmfusion.org/Howto/NVIDIA?highlight=%28%5CbCategoryHowto%5Cb%29
 #### c) Installer logiciel pour configurer la souris
 * sudo dnf install piper
 
+### 2. Machines virtuelles
+#### a) Installer VirtualBox et ses extensions
+Lien : https://doc.fedora-fr.org/wiki/VirtualBox_:_installation,_configuration,_utilisation
+
 ## Lignes de commande à connaître
 ### 1. Fedora
 #### a) Mises à jour
