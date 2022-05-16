@@ -40,7 +40,7 @@ Lien : https://doc.fedora-fr.org/wiki/VirtualBox_:_installation,_configuration,_
 
 ### 2. Flatpak
 #### Installer Flatpak
-* sudo zypper install flatpak
+* sudo dnf install flatpak
 #### Ajouter le depot Flatpak
 * flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 #### a) Lister les paquets
